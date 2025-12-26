@@ -1,0 +1,17 @@
+# Maven
+target/
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# OS
+.DS_Store
+
+# Environment
+.env
+
+# Node (future frontend)
+node_modules/
